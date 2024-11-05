@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNO Design Studio - Company Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #1a1a1a;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .contact {
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>UNO Design Studio</h1>
+        <p>Company Profile</p>
+    </header>
+
+    <section class="section" id="behind-the-name">
+        <h2>Behind the Name</h2>
+        <p>"Uno" means "one" in both Spanish and Italian, symbolizing our innovative approach that allows clients to request just one design at a time.</p>
+    </section>
+
+    <section class="section" id="the-art-of-one">
+        <h2>The Art of One</h2>
+        <p>UNO is a design studio built on "The Art of One" – a philosophy that lets our partners create exactly what they need, without the pressure of bundled agency packages or extra fees. At UNO, you only pay for the design you want, giving you control, flexibility, and exceptional value without compromise.</p>
+    </section>
+
+    <section class="section" id="our-services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Creative designs & Printings</li>
+            <li>Motion videos</li>
+            <li>Reels creation & Video production</li>
+            <li>Logo Design & Branding</li>
+            <li>Social Media Management</li>
+            <li>Content Creation</li>
+            <li>Presentation Design</li>
+            <li>3D & VFX compositing</li>
+            <li>E-Commerce website Development</li>
+        </ul>
+    </section>
+
+    <section class="section" id="behind-the-scenes">
+        <h2>Behind the Scenes</h2>
+        <p>Our team at UNO is a dynamic group of creative professionals with expertise across various industries and disciplines. With diverse backgrounds and a shared passion for innovation, we bring fresh perspectives and specialized skills to each project. We thrive on transforming ideas into impactful designs, tailored to meet the unique needs of our clients.</p>
+        <p>In addition to our core team, we proudly offer UNO+, a project that connects clients with over 500 creative professionals in our network. Acting as account managers, we keep all work under the UNO studio umbrella to guarantee reliability, commitment, and quality for our partners.</p>
+    </section>
+
+    <section class="section" id="our-partners">
+        <h2>Our Partners</h2>
+        <p>UNO proudly collaborates with a diverse range of clients across Egypt, Saudi Arabia, and the UAE. With a strong international presence, we provide backend creative support to over 50 agencies, enabling them to deliver exceptional projects and meet the demands of their markets.</p>
+    </section>
+
+    <section class="section contact">
+        <h3>Contact Us</h3>
+        <p>Email: <a href="mailto:info@unodesignstudio.agency">info@unodesignstudio.agency</a></p>
+        <p>Phone 1: +20 115 098 0581</p>
+        <p>Phone 2: +20 101 166 5492</p>
+        <p>Website: <a href="http://www.unodesignstudio.agency">www.unodesignstudio.agency</a></p>
+    </section>
+
+</body>
+</html>
